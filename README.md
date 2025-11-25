@@ -14,4 +14,9 @@
 3. 多模态与跨领域
 4. 推理与知识增强
 5. 安全与对齐
-6. 应用与Agent 系统
+6. 应用与Agent 系统  
+
+
+
+# Blog
+[REF](https://medium.com/@akankshasinha247)
