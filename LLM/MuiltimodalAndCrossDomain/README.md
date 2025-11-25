@@ -9,6 +9,6 @@ LLM支持图片识别后，一个新领域，针对传统CV领域，有了新的
 
 ### 工程实践
 
-[LLMForVideo](https://github.com/JackyYangPassion/LLMForVideo)
+[LLMForVideo](https://github.com/JackyYangPassion/LLMForVideo)   
 [ai-baby-monitor](https://github.com/JackyYangPassion/ai-baby-monitor)
 
