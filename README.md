@@ -9,14 +9,14 @@
 
 ## LLM 
 记录从基础架构到业务应用相关的最新的研究
-1. Architecture
-2. 训练优化与拓展
-3. 多模态与跨领域
+1. [Architecture](./LLM/Architecture/README.md)
+2. [训练优化与拓展]
+3. [Muiltimodal(多模态与跨领域)](./LLM/MuiltimodalAndCrossDomain/README.md)
 4. 推理与知识增强
 5. 安全与对齐
-6. 应用与Agent 系统  
+6. [Agent(应用与Agent 系统)](./LLM/Agent/ReActSummery.md)   
 
 
 
 # Blog
-[REF](https://medium.com/@akankshasinha247)
+[100DaysForAgent](https://medium.com/@akankshasinha247)
